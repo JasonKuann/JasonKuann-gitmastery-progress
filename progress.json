@@ -551,25 +551,5 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1769591927.461435,
-    "completed_at": 1769591932.985212,
-    "comments": [
-      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
-      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-compare",
-    "started_at": 1769592038.61845,
-    "completed_at": 1769592042.685974,
-    "comments": [
-      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
-      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
-    ],
-    "status": "Incomplete"
   }
 ]
