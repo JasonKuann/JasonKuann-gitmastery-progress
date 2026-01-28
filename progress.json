@@ -605,15 +605,5 @@
       "Great job using git branch to delete both merged and unmerged branches!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-docs",
-    "started_at": 1769595545.54574,
-    "completed_at": 1769595548.965031,
-    "comments": [
-      "You need to merge 'feature-delete' second!",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
   }
 ]
