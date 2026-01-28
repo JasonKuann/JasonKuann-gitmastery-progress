@@ -569,5 +569,14 @@
       "You have not committed the staged files! Remember, you need to manually commit after a squash merge!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1769592275.754278,
+    "completed_at": 1769592279.824141,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
   }
 ]
