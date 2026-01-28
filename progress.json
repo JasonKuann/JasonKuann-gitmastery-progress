@@ -605,14 +605,5 @@
       "Great job using git branch to delete both merged and unmerged branches!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "mix-messy-graph",
-    "started_at": 1769597132.602338,
-    "completed_at": 1769597136.072793,
-    "comments": [
-      "Expected commit message of 'Add the search feature', got 'Add the search search feature' instead."
-    ],
-    "status": "Incomplete"
   }
 ]
