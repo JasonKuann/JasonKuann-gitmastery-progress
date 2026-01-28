@@ -487,5 +487,14 @@
       "You do not have 2 commits on the bug-fix branch"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769588884.088041,
+    "completed_at": 1769588888.242526,
+    "comments": [
+      "You do not have 2 commits on the bug-fix branch"
+    ],
+    "status": "Incomplete"
   }
 ]
